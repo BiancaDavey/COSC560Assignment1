@@ -1,1 +1,1 @@
-560 wk.1
+COSC560 Assignment 1
