@@ -5,7 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "BiancaDavey <biancamdavey@icloud.com>",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "repository": "https://github.com/BiancaDavey/560WK1.git",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
 }
